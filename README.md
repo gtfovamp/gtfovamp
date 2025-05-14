@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Fuad Zamanov</h1>
+<h1 align="center">Hello <img src="https://i.pinimg.com/originals/ee/0b/d5/ee0bd5c89941b6c095614a51f72a3ff7.gif" width="100px" height="60px"> I'm Fuad Zamanov</h1>
 <br/>
 
 ## 👨‍💻 About Me:
