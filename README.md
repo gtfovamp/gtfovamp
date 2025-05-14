@@ -7,11 +7,6 @@
 
 ## 🌟 About Me
 
-## 🌟 About Me
-
-<div align="center">
-
-```diff
 ! 🚀 Passionate Full-stack Developer specializing in Flutter & Python
 ! 🔭 Currently crafting innovative solutions in mobile development
 ! 🌱 Mastering advanced app architectures and state management
