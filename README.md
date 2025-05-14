@@ -1,19 +1,17 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Fuad Zamanov</h1>
 <br/>
 
-## 👨‍💻 About Me:
+## 🌟 About Me
 
 <img src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif" height="200px" align="right" />
 
-## 🌟 About Me
-
-! 🚀 Passionate Full-stack Developer specializing in Flutter & Python
-! 🔭 Currently crafting innovative solutions in mobile development
-! 🌱 Mastering advanced app architectures and state management
-! 👯 Open to collaborating on exciting cross-platform projects
-! 🤔 Exploring competitive programming challenges
-! 💬 Feel free to ask about Flutter, Python or Firebase
-! ⚡ Fun fact: I compile code faster than light travels
+-- ! 🚀 Passionate Full-stack Developer specializing in 'Flutter & Python'
+-- ! 🔭 Currently crafting innovative solutions in mobile development
+-- ! 🌱 Mastering advanced app architectures and state management
+-- ! 👯 Open to collaborating on exciting cross-platform projects
+-- ! 🤔 Exploring competitive programming challenges
+-- ! 💬 Feel free to ask about Flutter, Python or Firebase
+-- ! ⚡ Fun fact: I compile code faster than light travels
 
 ## 🛠️ Tech Stack:
 
