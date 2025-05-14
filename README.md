@@ -1,55 +1,49 @@
-<!-- Баннер с анимированным текстом и иконками -->
+<h1 align="center">Привет <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Я Фуад Заманов</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=22D3E6&center=true&vCenter=true&width=800&height=50&lines=Привет!+Я+Фуад+Заманов—+Full-Stack+Developer;Flutter+%7C+Python+%7C+Firebase+%7C+FastAPI" alt="Анимированный заголовок" />
+  <img src="./banner.png" /> <!-- Замените на свой баннер -->
 </div>
 
----
+<br/>
 
-### 🛠 **Мой стек**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+## 👨🏻‍💻 Обо мне:
 
----
+<img src="./developer.gif" height="290px" align="right" />
 
-### 📈 **GitHub Stats**
-<!-- Кастомная статистика с темами -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК_GITHUB&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК_GITHUB&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
-</div>
+- 🚀 Full-stack разработчик (Flutter + Python)
+- 🔭 Сейчас работаю над интересными проектами на Flutter
+- 🌱 Изучаю продвинутые архитектуры мобильных приложений
+- 💬 Спросите меня о Flutter, Python или Firebase
+- ⚡ Факт: Могу написать код быстрее, чем вы успеете сказать "баг"
 
-<!-- Полоса активности (кастомная) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ВАШ_НИК_GITHUB&theme=react-dark&hide_border=true&area=true" />
+## 🛠️ Мой стек технологий:
 
----
-
-### 🚀 **Мои проекты**
-<!-- Карусель проектов (замените ссылки) -->
-<div align="center">
-  <a href="ССЫЛКА_НА_ПРОЕКТ1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК_GITHUB&repo=РЕПОЗИТОРИЙ1&theme=radical" />
-  </a>
-  <a href="ССЫЛКА_НА_ПРОЕКТ2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК_GITHUB&repo=РЕПОЗИТОРИЙ2&theme=radical" />
-  </a>
-</div>
-
----
-
-### 📫 **Контакты**
-<!-- Анимированные кнопки -->
-<p align="center">
-  <a href="https://t.me/eclippsss">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/fuadkh0i9d3jk4kf9/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25px"/>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25px"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25px"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
 </p>
 
+## 📫 Как со мной связаться:
+
+<p>
+<a href="https://t.me/eclippsss" target="_blank">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
+</a>
+</p>
+
+## 📊 Моя GitHub статистика:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК_GITHUB&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК_GITHUB&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК_GITHUB&layout=compact&theme=radical&langs_count=8" />
+</div>
+
 <!-- Змея, поедающая коммиты -->
-![Snake animation](https://github.com/ВАШ_НИК_GITHUB/ВАШ_НИК_GITHUB/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ВАШ_НИК_GITHUB/ВАШ_НИК_GITHUB/blob/output/github-contribution-grid-snake.svg)
