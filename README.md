@@ -1,22 +1,24 @@
-<h1 align="center">Привет <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Я Фуад Заманов</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Fuad Zamanov</h1>
 
 <div align="center">
-  <img src="./banner.png" /> <!-- Замените на свой баннер -->
+  <img src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif" alt="Coding GIF" width="600"/>
 </div>
 
 <br/>
 
-## 👨🏻‍💻 Обо мне:
+## 👨‍💻 About Me:
 
-<img src="./developer.gif" height="290px" align="right" />
+<img src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif" height="290px" align="right" />
 
-- 🚀 Full-stack разработчик (Flutter + Python)
-- 🔭 Сейчас работаю над интересными проектами на Flutter
-- 🌱 Изучаю продвинутые архитектуры мобильных приложений
-- 💬 Спросите меня о Flutter, Python или Firebase
-- ⚡ Факт: Могу написать код быстрее, чем вы успеете сказать "баг"
+- 🚀 Full-stack developer (Flutter + Python)
+- 🔭 I'm currently working on something interesting
+- 🌱 I'm currently learning advanced mobile app architectures
+- 👯 I'm looking to collaborate on dev projects
+- 🤔 I'm looking for help with competitive programming
+- 💬 Ask me about Flutter, Python or Firebase
+- ⚡ Fun fact: I can code faster than you can say "bug"
 
-## 🛠️ Мой стек технологий:
+## 🛠️ Tech Stack:
 
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25px"/>
@@ -29,7 +31,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
 </p>
 
-## 📫 Как со мной связаться:
+## 📫 How to reach me:
 
 <p>
 <a href="https://t.me/eclippsss" target="_blank">
@@ -37,13 +39,20 @@
 </a>
 </p>
 
-## 📊 Моя GitHub статистика:
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК_GITHUB&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК_GITHUB&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК_GITHUB&layout=compact&theme=radical&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtfovamp&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtfovamp&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtfovamp&layout=compact&theme=radical&langs_count=8" />
 </div>
 
-<!-- Змея, поедающая коммиты -->
-![Snake animation](https://github.com/ВАШ_НИК_GITHUB/ВАШ_НИК_GITHUB/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gtfovamp/gtfovamp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+```diff
++ Life Hack: Learn new tech and share what you have learned!
