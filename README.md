@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me:
 
-<img src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif" height="290px" align="right" />
+<img src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif" height="200px" align="right" />
 
 - 🚀 Full-stack developer specializing in `Flutter` and `Python`
 - 🔭 I'm currently working on `Next-Gen Mobile Solutions`
